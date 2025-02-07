@@ -1,10 +1,10 @@
-Crime Rate Analyzer - Calgary
+# Crime Rate Analyzer - Calgary
 
----- Overview ----
+**---- Overview ----**
 
 Crime Rate Analyzer is a data-driven application that helps visualize and analyze crime rates across different areas of Calgary using real-time data from the OpenCalgary API. The project aims to provide insights into crime trends, aiding law enforcement, policymakers, and the public in understanding and addressing crime in their communities.
 
-|- Features -|
+**|- Features -|**
 
 Fetches and processes real-time crime data from the OpenCalgary API
 
@@ -16,7 +16,7 @@ Statistical analysis and trend forecasting
 
 User-friendly dashboard for easy exploration
 
-|- Technologies Used -|
+**|- Technologies Used -|**
 
 Frontend: React.js / Vue.js (for visualization and user interface)
 
@@ -30,7 +30,7 @@ Data Processing: Python (Pandas, NumPy) / JavaScript
 
 Hosting: AWS / Firebase / Heroku
 
-|- Data Source -|
+**|- Data Source -|**
 
 The project utilizes the OpenCalgary API for retrieving real-time and historical crime data. The relevant dataset includes:
 
@@ -44,12 +44,12 @@ Crime severity index
 
 Setup Instructions
 
-|- Clone the repository: -|
+**|- Clone the repository: -|**
 
 git clone https://github.com/yourusername/crime-rate-analyzer.git
 cd crime-rate-analyzer
 
- |- Install dependencies: -|
+**|- Install dependencies: -|**
 
 npm install
 
